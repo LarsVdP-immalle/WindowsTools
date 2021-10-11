@@ -8,7 +8,7 @@
 
 ## CLI-tools
 ### write
-- locatie: c:\windows\write.exe
+- locatie: `c:\windows\write.exe`
 - doel: notities nemen
 ### 
 ### 
